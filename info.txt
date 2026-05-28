@@ -3,6 +3,7 @@ damoko - leader
 test - member
 test3 - test
 test - rfr
+rf - membertest
 ___
 # n°du raid
-142
+raid de la hess
