@@ -1,6 +1,6 @@
 # member - rank
 damoko - leader
-
+test - member
 ___
 # raid - raidnumb
 soon - 0
