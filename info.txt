@@ -1,7 +1,7 @@
 # member - rank
 damoko - leader
 test - member
-bot - noob
+test3 - test
 ___
 # raid - raidnumb
 soon - 0
