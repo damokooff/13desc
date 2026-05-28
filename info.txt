@@ -2,6 +2,7 @@
 damoko - leader
 test - member
 test3 - test
+test - rfr
 ___
 # n°du raid
 
