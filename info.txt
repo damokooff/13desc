@@ -3,6 +3,5 @@ damoko - leader
 test - member
 test3 - test
 ___
-# raid - raidnumb
-soon - 0
-nfe - 341
+# n°du raid
+
